@@ -25,3 +25,9 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database 🐣
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database✅
+
+Live URL link 
+https://sabamahd.github.io/Emp-Tracker/
+
+![Emp Tracker](https://user-images.githubusercontent.com/93783055/157142714-9e053ddc-2bfc-43fd-8919-1e61edf53bbf.png)
+
